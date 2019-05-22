@@ -1,2 +1,2 @@
 # pablocarracci.github.io
-Personal page with some projects
+Profile page
