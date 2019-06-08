@@ -49,3 +49,8 @@ body {
     background-color: #e1306c;
     color: #fff;
 }
+
+#curriculum:hover {
+    background-color: #a51c30;
+    color: #fff;
+}
