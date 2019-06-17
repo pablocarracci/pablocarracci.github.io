@@ -23,33 +23,13 @@ body {
     padding: 0% 1% 0% 1%;
     background-color: #fff;
     color: #000000;
-    transition: all 0.3s ease;
-    transition-delay: initial;
-    border-radius: 100px;
-    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.3);
+    transition: all 0.25s ease;
+    transition-delay: 0s;
+    border-radius: 10px;
+    box-shadow: 0 0 1px 0 rgba(0,0,0,.2);
 }
 
 .item:hover
 {
-    color: #fff;
-}
-
-#apps:hover {
-    background-color: #689f38;
-}
-
-#github:hover {
-    background-color: #24292e;
-}
-
-#twitter:hover {
-    background-color: #1da1f2;
-}
-
-#instagram:hover {
-    background-color: #e1306c;
-}
-
-#curriculum:hover {
-    background-color: #a51c30;
+    box-shadow: 0 4px 12px 4px rgba(0,0,0,.1);
 }
