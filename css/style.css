@@ -5,7 +5,7 @@ body {
 .box {
 	font-size: large;
 	font-weight: bold;
-	max-width: 500px;
+	max-width: 27.5em;
 	border: solid 1px;
 	padding: 2px 7px 2px 7px;
 	margin: 25px 0 25px 0;
